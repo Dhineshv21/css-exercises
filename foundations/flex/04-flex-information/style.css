@@ -33,8 +33,10 @@ img {
   display: flex;
   justify-content: space-between;
   gap: 52px;
+  margin-left: 150px;
+  margin-right: 150px;
 }
 
-.info { 
+.info {
   max-width: 200px;
 }
